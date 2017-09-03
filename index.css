@@ -5,3 +5,11 @@ body {
     width: 100%;
     height: 100%;
 }
+
+
+@font-face {
+    font-family: "simsun";
+    src: url("simsun.ttc"); /* IE9 */
+    font-style: normal;
+    font-weight: normal;
+}

@@ -27,7 +27,7 @@ $(() => {
         context.fillStyle = "#000000";
         context.fillRect(0, 0, canvas.width, canvas.height);
         context.fillStyle = "#FFFFFF";
-        context.font = "12px 宋体";
+        context.font = "12px simsun";
         for (let i = pos; i < pos + 60; i++) {
             context.fillText(arr[i], 0, 10 * (i - pos));
         }
