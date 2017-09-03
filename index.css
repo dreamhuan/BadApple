@@ -9,7 +9,7 @@ body {
 
 @font-face {
     font-family: "simsun";
-    src: url("simsun.ttc"); /* IE9 */
+    src: url("simsun.ttc"),url("simsun.ttf");
     font-style: normal;
     font-weight: normal;
 }
